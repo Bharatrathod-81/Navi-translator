@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=M+PLUS+1+Code&family=Montserrat&family=Roboto+Mono&display=swap');
+body{
+    font-family: 'Estonia', cursive; 
+}
+
+textarea{
+    width: 90%;
+    display: block;
+    margin: auto;
+    height: 13vh;
+    border: 5px solid  rgb(10,68,145);
+    text-align: center;
+
+}
+.nav{
+    background-color: rgb(85, 134, 199);
+    padding: 1rem;
+    margin: 0 0 2rem 0;
+    text-align: center;
+}
+.div{
+    text-align: center;
+    display: block;
+    margin: 1rem 0 0 1rem;
+}
+#output{
+    border: 5px solid rgb(10,68,145);
+    height: 13vh;
+    text-align: center;
+    margin: auto;
+    display: block;
+    width: 90%;
+    font-size: x-large;
+    font-weight: bold;
+}
+.footer{
+    text-align: center;
+    margin: auto;
+}
+
